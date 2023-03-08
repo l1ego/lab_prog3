@@ -4,20 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de74861e-ef8e-4a07-9d90-21c2cf7f2fa8" name="Changes" comment="lab prog3">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/.idea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="de74861e-ef8e-4a07-9d90-21c2cf7f2fa8" name="Changes" comment="prog3 lab">
       <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/Geometries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab1/GEOMETRY/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es1/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es1/QueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/main/GeometriesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Geometries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es2/model/Trinagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/ES/es3/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/GROUPNAME/io/PrettyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/GROUPNAME/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/GROUPNAME/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/GROUPNAME/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/PrinterNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +55,25 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "reviewState": "CHANGES_REQUESTED",
-      "author": "l1ego"
+      &quot;reviewState&quot;: &quot;CHANGES_REQUESTED&quot;,
+      &quot;author&quot;: &quot;l1ego&quot;
     }
   ],
-  "lastFilter": {
-    "reviewState": "CHANGES_REQUESTED",
-    "author": "l1ego"
+  &quot;lastFilter&quot;: {
+    &quot;reviewState&quot;: &quot;CHANGES_REQUESTED&quot;,
+    &quot;author&quot;: &quot;l1ego&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -68,33 +90,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "D:/leo/uni/terzo anno/prog3/esercizi/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/leo/uni/terzo anno/prog3/esercizi/test/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module",
-      "repository",
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;repository&quot;,
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lab3.ES.es3" />
@@ -106,6 +128,19 @@
     <configuration name="ReflectionTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReflectionTest" />
       <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,7 +161,8 @@
       <workItem from="1678120489464" duration="8134000" />
       <workItem from="1678200092287" duration="1424000" />
       <workItem from="1678289022573" duration="2667000" />
-      <workItem from="1678292475417" duration="1193000" />
+      <workItem from="1678292475417" duration="1785000" />
+      <workItem from="1678294270304" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="lab prog3">
       <created>1678292172132</created>
@@ -135,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678292172132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prog3 lab">
+      <created>1678293739825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678293739825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab prog3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab prog3" />
+    <MESSAGE value="prog3 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="prog3 lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
